@@ -1,9 +1,12 @@
-# Formal Definition (10X and 0X are both multipliers: 10X makes sth 10 times better, 10X makes sth fail really badly if not completely)
+## Formal Definition 
+ 
+ 10X makes sth 10 times better, 10X makes sth fail really badly if not completely)
  ultra simple and effective framework (language with term and syntax) to identify and talk about
 	- key value proposition 10X and 
 	- key risk factors 0X of the 10Xs
 
-# Theories (readers could skip these parts without impairing their ability to use 10X0X framework)
+## Theories (readers could skip these parts without impairing their ability to use 10X0X framework)
+	
 	- Origins (10X, scientific research)
 	- Perspectives of 
 		- Boundaries: Upper v.s. lower, or Max v.s. min
@@ -16,7 +19,7 @@
 		- Logical: 10X for real? 0X coherent to 10X?
 		- Elegance:  Syntactically and ontologically simple, that comes an aesthetic problem
 
-# Terminology and  Syntax 
+## Terminology and  Syntax 
 10X: 10 times better than state-of-the-art, read as ten-x
 0X: fail really badly if not completely, read as zero-x/o-x
 10X-: some noteworthy value proposition that are not as innovative as 10X, read as ten-x-minus
@@ -25,7 +28,7 @@
 —0X: remove a 0X, either validated or incorrectly defined, read as remove-0X
 ++0X: add a OX, newly surfaced from system or missed therefore., read as add-0X
 
-# 10X0X in action
+## 10X0X in action
 
 $$ in Business Case Study domain : 
 	10X for evaluating market cap derived from Market segment and product differentiation
