@@ -47,17 +47,18 @@ Yes: Fast grasping the critcal factors..
 No: Quantitative analysis, evaluation of value proposition
 		
 ## Terminology and  Syntax 
+..
 | Terms        | Meaning          | Read-as  |
 | ------------- |:-------------:| -----:|
 | 10x|10 times better than state-of-the-art in some aspects | ten-x|
-|0x|fail really badly if not completely|zero-x|
+|0x|fail really badly if not completely | zero-x|
 |10X-|some noteworthy value proposition that are not as innovative as 10X|ten-x-minus|
 |0X+|some noteworthy risk factors that are not as destructive as the 0X,|zero-x-plus|
 |100x|a valua proposition with double 10x | hundred-x|
 |1000x| a value proposition with triple 10x | thousand-x|
 |--0x| remove a 0x, eitheer validated or incorrectly identifed at the fist place| remove-0x|
 |++0X| add a 0x, a newly surfaced problem or missed identifying before. | add-0x|
-
+|.. | .. |
 ##10x0x in action 
 
 $$ in Business Case Study domain : 
