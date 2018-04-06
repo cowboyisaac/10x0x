@@ -95,3 +95,5 @@ precise descition, because 10x0x all about clearly identify everything and bring
 Mailing List for 10x0x.io 
 Email 
 Slack, LinkedIn
+
+## 3 mins, 3 days, 3 weeks
