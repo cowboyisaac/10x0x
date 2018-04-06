@@ -89,3 +89,9 @@ node, path, implications, 10x for 10M
 precise descition, because 10x0x all about clearly identify everything and bring to action/bias for action.
 10x0x on multiple layers.
 0x should lead to the direction of greatest gradient. 
+
+
+## TODO
+Mailing List for 10x0x.io 
+Email 
+Slack, LinkedIn
