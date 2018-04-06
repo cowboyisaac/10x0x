@@ -97,3 +97,4 @@ Email
 Slack, LinkedIn
 
 ## 3 mins, 3 days, 3 weeks
+3 min video/slide, 3 day workshops, 3 week books
