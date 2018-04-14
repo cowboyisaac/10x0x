@@ -1,4 +1,4 @@
-#10x0x for 1bn people
+#10x0x for 1bn people (v 0.2.0)
 
 # Definition 
  
@@ -154,7 +154,7 @@ TODO: Collecting examples and feedbacks now.
 
 2-day workshops for power 10x0x users
 
-2-week 
+2-week to read the definitive guid of 10x0x thoroughly.
 
 20-year for us to explore the full potential of 10x0x
 
