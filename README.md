@@ -25,53 +25,35 @@ See more in 10x0x in action section.
 
 Its makes the statement forceful and vigorous and thus easier to understand and apply in every day life. 
 
-```
-Today we preach that science is not science unless it is quantitative. We 
-substitute correlation for casual studies, and physical equations for organic 
-reasoning. Measurements and equations are supposed to sharpen thinking but... 
-they more often tend to make the thinking non-casual and fuzzy.  They tend to 
-be come the object of scientifi manipulation instead of auxilliary tests of 
-crucial inference.
+“***Today we preach that science is not science unless it is quantitative. We substitute correlation for casual studies, and physical equations for organic reasoning. Measurements and equations are supposed to sharpen thinking but... they more often tend to make the thinking non-casual and fuzzy.  They tend to be come the object of scientific manipulation instead of auxilliary tests of crucial inference.***
 
-Equations and measurements are useful when and only when they are related to 
-proof; but proof and disproof come first and is in fact strongest when it is 
-convicing without any quantitative measurments.  
+***Equations and measurements are useful when and only when they are related to proof; but proof and disproof come first and is in fact strongest when it is convicing without any quantitative measurments.***
 
-Or to say it another way, you can catch phenomena in a logcial box or in a 
-mathematical box. The logical box is coarse but strong. The mathematical box 
-is fine grained by flimsy. the mathematical box is a beautiful way of wrapping 
-up a problem, but it will not hold the phenoma unless hey have been caught in 
-a logical box to begin with.  - John R. Platt
-```
-```
-"There's no sense in being precise when you don't even know what you're 
-talking about. " -- John von Neumann
+***Or to say it another way, you can catch phenomena in a logcial box or in a mathematical box. The logical box is coarse but strong. The mathematical box is fine grained by flimsy. the mathematical box is a beautiful way of wrapping up a problem, but it will not hold the phenoma unless hey have been caught in a logical box to begin with.  - John R. Platt***”
 
-```
+and the famous quote by John von Neumann
+
+***"There's no sense in being precise when you don't even know what you're talking about. " -- John von Neumann***
+
 
 ### Minimalism: 
 *"If I had more time, I would have written a shorter letter"*
 
 Minimalism demands the pursuit of simplicity in defining symbols, syntaxs and common notes of 10x0x. Simplicity has been praised as a virtue of formulation of theories as in quotes of Thomas Aquinas:
 
-```
-If a thing can be done adequately by means of one, it is superfluous to do it by means of several; for we observe that nature does not employ two instruments where one suffices (Aquinas, Basic Writings of St. Thomas Aquinas, p. 129).
-```
+***If a thing can be done adequately by means of one, it is superfluous to do it by means of several; for we observe that nature does not employ two instruments where one suffices (Aquinas, Basic Writings of St. Thomas Aquinas, p. 129).***
+
 Sir Isaac Newton includes a principle of parsimony as one of his three ‘Rules of Reasoning in Philosophy’ at the beginning of Book III of Principia Mathematica (1687):
 
-```
-Rule I: We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.
-```
+***Rule I: We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances.***
+
 Albert Einstein constraints the simplicity i.e., minimizing number of axioms with the the need to maximize the number of empirical facts to cover:
-```
-The grand aim of all science…is to cover the greatest possible number of empirical facts by logical deductions from the smallest possible number of hypotheses or axioms (Einstein, quoted in Nash 1963, p. 173).
-```
+
+***The grand aim of all science…is to cover the greatest possible number of empirical facts by logical deductions from the smallest possible number of hypotheses or axioms (Einstein, quoted in Nash 1963, p. 173).***
 
 That also translates to an essential pillar of 10x0x framework, that is, focusing only on polarized factors leading to massive success or utter failure. In the parlance of Einstein, if I may to paraphrase his words, that would be:
 
-``` 
-The grand aim of 10x0x is to cover the greatest possible number of critical factors leading to success or failure by logical deductions from the smallest possible number of 10xs and 0xs.
-```
+***The grand aim of 10x0x is to cover the greatest possible number of critical factors leading to success or failure by logical deductions from the smallest possible number of 10xs and 0xs.***
 
 Per the definition of simplicity in Stanford Encyclopedia of Philosophy, there are two kinds of simplicities in sight: 
 
