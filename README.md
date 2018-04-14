@@ -7,7 +7,15 @@ A simple and effective framework to identify worthy pursuits and critical point 
 Worthy pursuits refer to 10x value propositions and critical point of failures are the 0xs inherent to the 10x proposition.
 
 ## Usage
-See more in 10x0x in action chapter. 
+
+Yes: Fast grasping the critcal factors..
+
+No: Quantitative analysis, evaluation of value proposition
+
+dont resort 0x as a to-to list. it generates todo list. 
+10x generate visions, 0x create actions. massive effective actions. 
+
+See more in 10x0x in action section. 
 
 ## Design Principles and justification 
 
@@ -18,14 +26,26 @@ See more in 10x0x in action chapter.
 Its makes the statement forceful and vigorous and thus easier to understand and apply in every day life. 
 
 ```
-Today we preach that science is not science unless it is quantitative. We substitute correlation for casual studies, and physical equations for organic reasoning. Measurements and equations are supposed to sharpen thinking but... they more often tend to make the thinking non-casual and fuzzy.  They tend to be come the object of scientifi manipulation instead of auxilliary tests of crucial inference.
+Today we preach that science is not science unless it is quantitative. We 
+substitute correlation for casual studies, and physical equations for organic 
+reasoning. Measurements and equations are supposed to sharpen thinking but... 
+they more often tend to make the thinking non-casual and fuzzy.  They tend to 
+be come the object of scientifi manipulation instead of auxilliary tests of 
+crucial inference.
 
-Equations and measurements are useful when and only when they are related to proof; but proof and disproof come first and is in fact strongest when it is convicing without any quantitative measurments.  
+Equations and measurements are useful when and only when they are related to 
+proof; but proof and disproof come first and is in fact strongest when it is 
+convicing without any quantitative measurments.  
 
-Or to say it another way, you can catch phenomena in a logcial box or in a mathematical box. The logical box is coarse but strong. The mathematical box is fine grained by flimsy. the mathematical box is a beautiful way of wrapping up a problem, but it will not hold the phenoma unless hey have been caught in a logical box to begin with.  - John R. Platt
+Or to say it another way, you can catch phenomena in a logcial box or in a 
+mathematical box. The logical box is coarse but strong. The mathematical box 
+is fine grained by flimsy. the mathematical box is a beautiful way of wrapping 
+up a problem, but it will not hold the phenoma unless hey have been caught in 
+a logical box to begin with.  - John R. Platt
 ```
 ```
-"There's no sense in being precise when you don't even know what you're talking about. " -- John von Neumann
+"There's no sense in being precise when you don't even know what you're 
+talking about. " -- John von Neumann
 
 ```
 
@@ -61,6 +81,11 @@ Per the definition of simplicity in Stanford Encyclopedia of Philosophy, there a
 Readers may find the trace of pursuit of minimalism throughout 10x0x, not just in design of the framewoor but also in defining laws and rules governing the usage of 10x0x. We can analogize 10x as hypothesis of value creation and 0x as the postulates behind, and judge the quality of a 10x0x proposition with both elegance and parsimony standard.
 
 With all the strethes of minimalism here, we shall not be afraid of ongoing experimentation of new ideas for 10x0x. Always bear in mind the frist design principle of "Choose vigor over rigor"
+
+
+
+
+
 
 ### Laws, rules, violations of 10x0x principles.
 - Law #1 no 10X without 0X. no Ox, no 10x
@@ -113,15 +138,6 @@ Its like a passion statement.
 
 not just to over commit, but also take massvie action to make it increasingly more probable. 
 
-
-## Scope of applications
-
-Yes: Fast grasping the critcal factors..
-
-No: Quantitative analysis, evaluation of value proposition
-
-dont resort 0x as a to-to list. it generates todo list. 
-10x generate visions, 0x create actions. massive effective actions. 
 		
 ## Terminology and  Syntax 
 
