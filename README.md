@@ -1,23 +1,84 @@
 #10x0x for 1bn people
 
-## Definition 
+# Definition 
  
 A simple and effective framework to identify worthy pursuits and critical point of failures. 
 
 Worthy pursuits refer to 10x value propositions and critical point of failures are the 0xs inherent to the 10x proposition.
 
-## Usage
+# The 10x0x Theory
 
-Yes: Fast grasping the critcal factors..
+Parts of the credits of use of 10X are attributed to the book "The 10X Rules". We extend the scope of 10x in business value proposition to value proposition in general and include the important notion of 0x to make the framework more comprehensive. 0x refers to the greatest risk, or the riskest assumption of the value proposition. Actually, we are not strangers to the idea of 0x, which echoes with the MVP (Minimal Viable Product) methodologies for validating 0xs with the lowest cost possible. 
 
-No: Quantitative analysis, evaluation of value proposition
+In fact, the process of defining 10x0x is similar that designs a scientific investigation, that is, to identify the key research objectives (10xs) and the key research questions (0xs) and to design experiments/steps to validate key research questions one at a time so as to make the 10x research value claim scientifically sound. 
 
-dont resort 0x as a to-to list. it generates todo list. 
-10x generate visions, 0x create actions. massive effective actions. 
+The purpose of 10x0x is to provide a framework to identify and undesrtand worthy pursuits, the cirtical risks involved to evaluate whether you should work towards those pursuits. 
 
-See more in 10x0x in action section. 
+In business analytics domain, 10x indicates the markte cap and 0s indicates the outstanding risks to be addressed. 0x can interal risk like technology edge and external risk like system risks of politics beyong our control. Startups grows by creating 10x values to markets by continuously addressing their primary risks of their vision. 
 
-## Design Principles and justification 
+10x and 0x embodies a parent-child 1:m relationship. A value proposition can have multipel 10xs that are preferably mutually orthogonal to each other. 
+
+10xs materialize the visions and 0xs deride effective actions. 10x0x encourages users to take massive effective actions to become more robust of 0xs and to make achieving 10xs increasingly more probable with largest steps possible. 
+
+Think big (identify 10x) and Act big (solving 0x)
+
+#### Informal usage of 10x0x
+
+| Perspective       | 10x           | 0x  |
+| ------------- |:-------------:| :-----:|
+| of action	| winning moves| losing moves|
+| of progression | Revolution | Evolution |
+| of investment| full potential | greatest risks|
+|of boundaries| Upper bound | Lower bound|
+
+### Intrinsic value of 10x0x
+Polarization: Polarizing the problem sharpen one's thinking. It will surface the critical factors that are not visible otherwise. 
+
+Choosing Vigor over Rigor: Giving away a certain degree of rigor in exchange for a large degree of vigor to make statements forceful and therefore easy to understand and remember. 
+
+Visibility: Visibility of the critical value and risks is essential especially to decentralized collaborative working groups, e.g. multi national companies, open source communities and Decentralized Autonomous Organizaiotn.
+
+### Process of writing a 10x0x proposition
+1. Deciding 10xs: Identify a worthy pursuit by assessing the value of your objectives. 
+2. Identifying 0xs: Create assumptions about critical points of failure that will prevent you from achieving the identified 10xs.
+
+Subject to constraints:
+
+***Law 1: the Law of Coexistence - No 10x without 0x.***
+
+If we play around the first law of 10x0x, we can deduce some intesting theories, e.g., no 0x, no 10x. If an organization has not critical risks, then it is highly likely that it does not try something new, let alone the chance to acheive a 10x. 
+
+Please note that 10xs should hold a high bar or target and the 0xs should be coherently chained together to support the claim of achieving the 10xs. 
+
+***Law 2: the Law of Elegance - No more than 3 10xs and all of them should be simple***
+
+We have a heuristics here: it is highly unlikely to have a proposition with over three 10xs - it is just too difficult to innovate in so many dimensions at the same time. Having more than 3 10xs is likely caused by insufficent understanding of the problem or each of proposed 10x is not really a 10x. If there is one, let's just accept that 10x0x is not perfect to frame such an anomaly. After all, we *choose vigor over rigor* (see Design Principle Section). The law 2 embodies the design principle of *"syntactical simplicity"*.
+
+***Law 3: the Law of Parsimony - No more than 3 0xs and all of them should be simple***
+
+We assume that a proposition with over three 0xs is considered of unbearable risks.  The law 3 represents the design principle of *"ontological simplicity"*.
+
+### Deciding 10xs
+10x should focus only on how great the result would be and leave all the difficulties to 0x.  
+ 
+Do not be afraid of over commiting. Figure out how to live up the commitment later. even if you under perform sometimes it does not matter. You will resolve every critics with your massive success. 
+
+It is impractical to achieve 10x by winning competition and slaying dragons. Instead, think about domination and setting the pace for the market. Never play by the agreed upon norms. 
+
+Justification of 10x should be able to paraphase as a "only we can do it because ...". In real world it is very unlikely to have complete dominance in a single dimension. Often the edge of dominance come from overall dominance in a few dimension that makes up a 10x. Please note that we choose vigor over rigor, and thus it is acceptable to phrase the statement in a more forceful way. 
+
+Think 10x for 10 million people (10x for 10mn). The number 10mn is just as an example to indicate that the user base is crucial. 10x proposition for a small cult group is cool but in not the scope of 10x0x. 
+
+### Deciding 0xs
+Never define 0xs as your todo list items. They are not! Instead, address the risks in 0xs generate many todo list from day to day operation.
+
+0x should indicate risks that does realy damage, if not killing your project at all. Think of the facebook leak event as example. It is a 0x they fail to recognize or to address. 
+
+0x should be able to paraphrase as "if 0x does not hold, the proposition will collape because...." e.g., "if users consider facebook not trustworthy, they would stop using them and that cause downwards spiral to the userbase."
+
+Addressing 0xs should contitutes the biggest moves towards your target (greatest gradient towards the objective function). It is not 0x enough otherwise. 
+
+# Design Principles
 
 ### Choose Vigor over Rigor
 
@@ -64,64 +125,8 @@ Readers may find the trace of pursuit of minimalism throughout 10x0x, not just i
 
 With all the strethes of minimalism here, we shall not be afraid of ongoing experimentation of new ideas for 10x0x. Always bear in mind the frist design principle of "Choose vigor over rigor"
 
-
-
-
-
-
-### Laws, rules, violations of 10x0x principles.
-- Law #1 no 10X without 0X. no Ox, no 10x
-	- Law #2 If we remove all the factors that are likely to cause you to fail, the probability of success is higher
-	- law #3 one's 0x could be other's 10x
-	- having a solid 10x, must know-it-all
-	- Golden Rules: 
-		- Logical: 10X for real? 0Xs coherent to 10X? Path practical?
-		- Elegance:  Syntactical simplicity to govern 10xs. Ontological simplicity to govern 0xs
-		- mission deriding 10xs, visions embodies 10xs. 
-
-Opearators. 1000x = trible 10x for example.
-
-violations: 
-Set the target bar too low, not qualifying a real 10x. 
-0xs do not coherenlty support 10x, underestiamting the actions required. 
-underestimating the 0xs
-
-dont think of competition. Think domination only.  Dominate, set the pace
-
-## 10x0x in simple words/informal usage
-Critical factors leading to success or failures
-worthy pursuits and criticle point of failure
-
-| ??        | 10x           | 0x  |
-| ------------- |:-------------:| :-----:|
-| ??	| winning moves| losing moves|
-|?? | Define the best possible. | Cover your backs. |
-| ?? | Revolutiona value proposition | Evolutions one critical risk at a time |
-|??| full opportunity | greatest risks|
-|??| Vision | MVP|
-|??| Upper bound | Lower bound|
-|??| Max | Min|
-|??| Think big | Act big |
-
-
-## Theories
-	
-	- Origins ( the 10X rule., scientific research)
-	
-	- Meta: polarisation, Visibility, Node and Path. 
-What makes a good 10x,  focus only on how great the results coudl be 
-
-do not be afraid of over commiting. Figure out how to live up the commitment later. even if you under perform sometimes it does not matter. You will resolve every critics with massvie sucess. 
-
-	The obsess and only-i-can-do statement leading to 10x value proposition.
-Its like a passion statement.
-
-0x - is not to-do list, but it generate todo list based on the context.  
-
-not just to over commit, but also take massvie action to make it increasingly more probable. 
-
-		
-## Terminology and  Syntax 
+			
+# 10x0x Grammar 
 
 | Terms        | Meaning          | Read-as  |
 | ------------- |:-------------:| -----:|
@@ -135,41 +140,30 @@ not just to over commit, but also take massvie action to make it increasingly mo
 |++0X| add a 0x, a newly surfaced problem or missed identifying before. | add-0x|
 |..   | .. |..|
 
+1000x = 10x10x10x
 
+#10x0x examples in 10x0x canvas
+TODO: 10x0x of 10x0x
 
-##10x0x in action 
+TODO: Collecting examples and feedbacks now.
 
-$$ in Business Case Study domain : 
+# 10x0x Working Materials 
+2-min talk for fast introduction
 
-	- 10X for evaluating market cap derived from Market segment and product differentiation
-	- 0X for identifying the essential risks/assumptions of the 10X propositions. What the million/billion-dollar-questions to ask?
-	- MVP design, Minimal Viable Product to validate the riskiest assumption, i.e., 0Xs, with the lowest cost possible.  
-	- Startup create 10X values to markets by continuously solving 0X with lean methodology like MVP
-	Case studies: 
-	
-$$ How to manage it. 
+20-min talk for a comprehensive overview of how to use it properly
 
-## 10x0x foundation governance
-Evangelists: Eric Huang, China
+2-day workshops for power 10x0x users
 
-Engineers (GitHub), MBA students, Venture Capitalists.. DAO
+2-week 
 
-## 10x0x Tools
-10x0x gallery: Showcase 10x0x for crowd editing. Crowd create. 
+20-year for us to explore the full potential of 10x0x
 
-## 10x0x canvas design
-illustrate with 10x0x of 10x0x
-node, path, implications, 10x for 10M
-10x mutually orthogonal?? linearly uncorrelated like Principle component? Why? The benefit.
-precise descition, because 10x0x all about clearly identify everything and bring to action/bias for action.
-10x0x on multiple layers.
-0x should lead to the direction of greatest gradient. 
+# The 10x0x team
+Establishing a nonprofit foundation in Hong Kong.
 
+Evangelists: It is honor to annouce Eric Huang as the first evangelist of 10x0x. He will organize a meet-up in Guangzhou China before the end of April to collect more feedbacks.
 
-## TODO
-Mailing List for 10x0x.io 
-Email 
-Slack, LinkedIn
+# TODO: 
+Introducing the idea of global 10x0x graphs. And give examples of its practise in management, cross region collaboration. 
 
-## 2 mins, 20 min, 2 day, 20 years to apply and refine.
-3 min video/slide, 3 day workshops, 3 week books
+More 10x0x examples: big names, rising startups.
