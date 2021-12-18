@@ -146,14 +146,14 @@ TODO: 10x0x of 10x0x
 TODO: Collecting examples and feedbacks now.
 
 # 10x0x Working Materials 
-2-min talk for fast introduction
+1-min talk for fast introduction
 
-20-min talk for a comprehensive overview of how to use it properly
+10-min talk for a comprehensive overview of how to use it properly
 
-2-day workshops for power 10x0x users
+1-day workshops for power 10x0x users
 
-2-week to read the definitive guid of 10x0x thoroughly.
+1-week to read the definitive guid of 10x0x thoroughly.
 
-20-year for us to explore the full potential of 10x0x
+100-year for us to explore the full potential of 10x0x
 
 # The 10x0x team
