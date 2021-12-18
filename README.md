@@ -159,14 +159,3 @@ TODO: Collecting examples and feedbacks now.
 20-year for us to explore the full potential of 10x0x
 
 # The 10x0x team
-Establishing a nonprofit foundation in Hong Kong.
-
-Evangelists: It is honor to annouce Eric Huang as the first evangelist of 10x0x. He will organize a meet-up in Guangzhou China before the end of April to collect more feedbacks.
-
-# Feedback
-Any feedback is more than welcome. Just drop me a note at im@zhangisaac.com
-
-# TODO: 
-Introducing the idea of global 10x0x graphs. And give examples of its practise in management, cross region collaboration. 
-
-More 10x0x examples: big names, rising startups.
