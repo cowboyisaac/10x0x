@@ -1,5 +1,3 @@
-#10x0x for 1bn people (v 0.2.0)
-
 # Definition 
  
 A simple and effective framework to identify worthy pursuits and critical point of failures. 
